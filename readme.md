@@ -8,3 +8,6 @@
 - receive:
 	- open an empty file
 	- save all the bytes received from MQTT topic
+	
+	
+Can be used with Micropython and ESP32/ESP32CAM
